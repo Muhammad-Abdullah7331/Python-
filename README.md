@@ -1,3 +1,2 @@
 # Python-
-This is my first repository where i can working on the python projects
-
+This is my repository<br>where i can working on the different projects of python
